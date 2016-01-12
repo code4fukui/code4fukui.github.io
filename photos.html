@@ -1,0 +1,51 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<style>
+body {
+	margin: 0;
+	text-align: center;
+}
+#main {
+	white-space: nowrap;
+	overflow-x: scroll;
+	height: 200px;
+}
+</style>
+<div id="head"></div>
+<title>photos 福井県立恐竜博物館</title>
+<meta name="keywords" content="Code for, 福井県, オープンデータ, ハッカソン"/>
+<meta property="og:title" content="photos 福井県立恐竜博物館">
+<meta name="description" content="photos 福井県立恐竜博物館">
+<meta property="og:description" content="photos 福井県立恐竜博物館">
+<meta property="og:url" content="http://fukui.opendata.cc/photos.html">
+<meta property="og:image" content="http://fukui.opendata.cc/img/head.jpg">
+<meta property="og:site_name" content="Code for Fukui">
+</head>
+<script src="http://fukuno.jig.jp/fukuno.js"></script>
+<script>"use strict";
+window.onload = function() {
+	var url = "http://fukui.opendata.cc/data/fukui-dinosaur/";
+	jsonp(url, function(data) {
+//		dump(data);
+		for (var i = 0; i < data.length; i++) {
+			var img = url + data[i];
+			var imgurl = getResizedImageURL(img, 200, 200);
+			var imgc = create("img");
+			imgc.src = imgurl;
+			var a = create("a");
+			a.href = img;
+			a.target = "_blank";
+			a.appendChild(imgc);
+			imgc.a = a;
+			imgc.onload = function() {
+				get("main").appendChild(this.a);
+			};
+		}
+	});
+};
+</script>
+<body>
+<div id="main"></div>
+</body>
+</html>
