@@ -2,11 +2,11 @@
 
 ## Code for Fukuiとは
 
-Code for Fukuiは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です。
+[Code for Fukui](index.html)は、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です。
 
-Code for Fukuiは、地域の課題をテクノロジーで解決するシビックテック活動を通じて、自らが考え、行動し、繋がりながら、より良いまちを作れる環境を広めていくことを目的としています。新たなライフスタイルを創造し、「[CyberValley](https://cybervalley.jp/)」から発信します。
+[Code for Fukui](index.html)は、地域の課題をテクノロジーで解決するシビックテック活動を通じて、自らが考え、行動し、繋がりながら、より良いまちを作れる環境を広めていくことを目的としています。新たなライフスタイルを創造し、「[CyberValley](https://cybervalley.jp/)」から発信します。
 
-Code for Fukuiの会員は、同じ志を持った、エンジニア、デザイナー、学生、学校関係者、行政関係者など、多様な人達で構成されています。
+[Code for Fukui](index.html)の会員は、同じ志を持った、エンジニア、デザイナー、学生、学校関係者、行政関係者など、多様な人達で構成されています。
 
 ## ミッション （理念、使命）
 
@@ -49,11 +49,11 @@ Code for Fukuiの会員は、同じ志を持った、エンジニア、デザイ
 
 ## Code for Japanとの連携
 
-Code for Fukuiは、[Code for Japan](https://www.code4japan.org/)と同じ志を持ち、ＩＴで地域課題の解決に挑戦する活動をしています。
+[Code for Fukui](index.html)は、[Code for Japan](https://www.code4japan.org/)と同じ志を持ち、ＩＴで地域課題の解決に挑戦する活動をしています。
 
-「Code for X（地域名）」は、Code for Sabaeをはじめ、全国で約８０団体が活動しており、[Code for Japan](https://www.code4japan.org/)では、ブリゲードと呼ばれています。
+「[Code for X](https://www.code4japan.org/brigade)（地域名）」は、[Code for Sabae](https://c4.sabae.cc/)をはじめ、全国で約８０団体が活動しており、[Code for Japan](https://www.code4japan.org/)では、ブリゲードと呼ばれています。
 
-Code for Fukuiは、[Code for Japan](https://www.code4japan.org/)をはじめ、全国で活動するブリゲードとパートナーシップを結び、緩やかなネットワークで繋がっています。
+[Code for Fukui](index.html)は、[Code for Japan](https://www.code4japan.org/)をはじめ、全国で活動するブリゲードとパートナーシップを結び、緩やかなネットワークで繋がっています。
 
 ## Cyber Valleyとは
 
@@ -63,9 +63,9 @@ Code for Fukuiは、[Code for Japan](https://www.code4japan.org/)をはじめ、
 
 このような時流では、次々と登場する新たなデジタル技術をいかに取り込み活用するためには、経験とセンスが問われます。そこには、技術そのものではなく社会の課題を解決に導いていく仕組みづくりが重要であるという本質があるからです。特に、余分な資源を使わない社会のアップデートはSDGs実現の要です。
 
-Code for Fukuiは、シビックテック活動を通じて、課題に立ち向かうためのいろいろなツールを発明、活用できる地域にしていきます。そして、Code for Fukuiは、この取組みを福井を始めとする北陸の地形と環境、新しいものに取り組む姿勢がシリコンバレーと似ていることに着目して名付けられた「[CyberValley](https://cybervalley.jp/)」で活動します。
+[Code for Fukui](index.html)は、シビックテック活動を通じて、課題に立ち向かうためのいろいろなツールを発明、活用できる地域にしていきます。そして、[Code for Fukui](index.html)は、この取組みを福井を始めとする北陸の地形と環境、新しいものに取り組む姿勢がシリコンバレーと似ていることに着目して名付けられた「[CyberValley](https://cybervalley.jp/)」で活動します。
 
-Code for Fukuiは、いろいろなツールを発明、活用することで、福井から新たなライフスタイル創出へ「[CyberValley](https://cybervalley.jp/)」で取り組み、「[CyberValley](https://cybervalley.jp/)」から発信します。
+[Code for Fukui](index.html)は、いろいろなツールを発明、活用することで、福井から新たなライフスタイル創出へ「[CyberValley](https://cybervalley.jp/)」で取り組み、「[CyberValley](https://cybervalley.jp/)」から発信します。
 
 ## プロジェクト
 
@@ -77,7 +77,8 @@ Code for Fukuiは、いろいろなツールを発明、活用することで、
 - [時間割ガチャ](https://github.com/code4fukui/timetable/)
 - [福井県長期ビジョン オープンデータ](https://github.com/code4fukui/vision)
 - [政府CIOポータル 標準ガイドライン群用語集 オープンデータ化](https://github.com/code4fukui/stdwords-jp)
-- [特許庁 モデル契約書 GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
+- [特許庁 モデル契約書
+  GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
 - [構造化テキストファイルMarkdown](https://github.com/code4fukui/Markdown/)
 
 ## 関連団体
