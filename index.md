@@ -1,20 +1,23 @@
 # Code for Fukui
 
 ## Code for Fukuiとは
+
 Code for Fukuiは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です。
 
 Code for Fukuiは、地域の課題をテクノロジーで解決するシビックテック活動を通じて、自らが考え、行動し、繋がりながら、より良いまちを作れる環境を広めていくことを目的としています。新たなライフスタイルを創造し、「[CyberValley](https://cybervalley.jp/)」から発信します。
 
 Code for Fukuiの会員は、同じ志を持った、エンジニア、デザイナー、学生、学校関係者、行政関係者など、多様な人達で構成されています。
 
-## ミッション　（理念、使命）
+## ミッション （理念、使命）
+
 【オープンにつながり、社会をアップデート（より新しいものに）します】
 
 デジタル市民がオープンに繋がり、それぞれが理想とする社会を作るための「場」をつくります。「ともに考え、ともにつくる社会」をめざす場です。
 各人が自分自身で考え、行動し、繋がることで、社会が変わってきます。
 繋がることで、信用が蓄積され、課題を解決するサービスを提供するのみならず、そのサービスを提供し続ける力を持ちます。
 
-## ビジョン　（目標、未来像、ゴール）
+## ビジョン （目標、未来像、ゴール）
+
 【ともに考え、ともにつくる社会】
 
 - 誰もが「つくる」側に回ることができる。まずは自らが手を動かそう。
@@ -23,6 +26,7 @@ Code for Fukuiの会員は、同じ志を持った、エンジニア、デザイ
 - 組織や地域の壁を超えて繋がり、アイデアを交換し、助け合い、挑戦しよう。
 
 ## バリュー（規範、行動基準）
+
 【地域の市民や自治体と連携し、地域課題を解決します。】
 
 - Code for Fukuiは、デジタル市民のための組織です。
@@ -31,22 +35,28 @@ Code for Fukuiの会員は、同じ志を持った、エンジニア、デザイ
 - 行政や民間企業の影響を受けずに中立・公益の立場から物事を判断するよう心がけます。
 
 ## 事業
+
 1. 交流会等に関する事業
-1. 行政・大学・企業等と連携したオープンなアプリケーション成作に関する事業\
-    オープンデータ活用の推進及びテクノロジー活用を支援する。
-1. 情報リテラシ向上と技術習得に関する事業\
-    プログラミング教室を通じて、情報リテラシの向上と技術の習得を支援する。
-1. テクノロジー活用等イベントに関する事業
+2. 行政・大学・企業等と連携したオープンなアプリケーション成作に関する事業\
+   オープンデータ活用の推進及びテクノロジー活用を支援する。
+3. 情報リテラシ向上と技術習得に関する事業\
+   プログラミング教室を通じて、情報リテラシの向上と技術の習得を支援する。
+4. テクノロジー活用等イベントに関する事業
 
 ## 定款
+
 [定款（案）](teikan.html)
 
 ## Code for Japanとの連携
+
 Code for Fukuiは、[Code for Japan](https://www.code4japan.org/)と同じ志を持ち、ＩＴで地域課題の解決に挑戦する活動をしています。
+
 「Code for X（地域名）」は、Code for Sabaeをはじめ、全国で約８０団体が活動しており、[Code for Japan](https://www.code4japan.org/)では、ブリゲードと呼ばれています。
+
 Code for Fukuiは、[Code for Japan](https://www.code4japan.org/)をはじめ、全国で活動するブリゲードとパートナーシップを結び、緩やかなネットワークで繋がっています。
 
-## Cyber Valleyとは 
+## Cyber Valleyとは
+
 インフラとしてのオープンデータの広まりを受けた次の一手は、サイバー空間（仮想空間）とフィジカル空間（現実空間）を高度に融合させたシステムにより、経済発展と社会的課題の解決を両立する、人間中心の社会の構築です。
 
 デジタル技術とデータの活用が進むことによって、社会・産業・生活のあり方を根本から革命的に変えていくことが可能なことを私達は知っています。
@@ -58,6 +68,7 @@ Code for Fukuiは、シビックテック活動を通じて、課題に立ち向
 Code for Fukuiは、いろいろなツールを発明、活用することで、福井から新たなライフスタイル創出へ「[CyberValley](https://cybervalley.jp/)」で取り組み、「[CyberValley](https://cybervalley.jp/)」から発信します。
 
 ## プロジェクト
+
 - [毎月最終金曜夜の交流イベント サイバーフライデー](https://cybervalley.jp/)
 - [福井県施設ダッシュボード](https://github.com/code4fukui/facilinow)
 - [東京で感じる福井マップ](https://github.com/code4fukui/tokyo-fukui-map)
@@ -70,6 +81,7 @@ Code for Fukuiは、いろいろなツールを発明、活用することで、
 - [構造化テキストファイルMarkdown](https://github.com/code4fukui/Markdown/)
 
 ## 関連団体
+
 - [Code for Japan](https://www.code4japan.org/)
 - [CyberValley](https://cybervalley.jp/)
 - [福井県こどもプログラミング協議会](https://fkpc.github.io/)
@@ -77,9 +89,12 @@ Code for Fukuiは、いろいろなツールを発明、活用することで、
 - [PCN武生](https://www.facebook.com/pcn.takefu/)
 
 ## 謝辞
-CSS: [sakura](https://github.com/oxalorg/sakura)  
-mark-down: [marked_md](https://github.com/taisukef/marked_md) forked [marked](https://github.com/markedjs/marked)  
+
+CSS: [sakura](https://github.com/oxalorg/sakura)\
+mark-down: [marked_md](https://github.com/taisukef/marked_md) forked
+[marked](https://github.com/markedjs/marked)
 
 ## ドキュメント on GitHub
-本ドキュメントはGitHubで管理されたオープンソースです。  
-https://github.com/code4fukui/code4fukui.github.io  
+
+本ドキュメントはGitHubで管理されたオープンソースです。\
+https://github.com/code4fukui/code4fukui.github.io
