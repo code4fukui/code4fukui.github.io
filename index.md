@@ -83,6 +83,13 @@
 - [ノベルふくい](https://github.com/code4fukui/novel-fukui/)
 - [日本の風景オープンデータ featuring FIND/47](https://code4fukui.github.io/find47/)
 - [localgovjp 日本の地方自治体一覧オープンデータ](https://github.com/code4fukui/localgovjp)
+- [越前市国高地区シビックテック](https://github.com/code4fukui/kunitaka)
+- [梵オープンデータ](https://github.com/code4fukui/born)
+- [福井市グルメコレクション](https://github.com/code4fukui/fukuigc)
+- [福井県池田町のこども向けアクティビティー検索 WithKids](https://code4fukui.github.io/withkids/)
+- [勝山市 恐竜写真オープンデータ](https://github.com/code4fukui/data-fukui-dinosaur)
+- [ゴミ燃やしゲーム（鯖江編）](https://code4fukui.github.io/gomiq/)
+- [カニロボコン得点システム](https://github.com/code4fukui/kanirobocon)
 
 ## 関連団体
 
