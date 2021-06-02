@@ -81,6 +81,7 @@
   GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
 - [構造化テキストファイルMarkdown](https://github.com/code4fukui/Markdown/)
 - [ノベルふくい](https://github.com/code4fukui/novel-fukui/)
+- [localgovjp 日本の地方自治体一覧オープンデータ](https://github.com/code4fukui/localgovjp)
 
 ## 関連団体
 
