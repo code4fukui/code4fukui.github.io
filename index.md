@@ -90,6 +90,7 @@
 - [福井県こどもプログラミング協議会](https://fkpc.github.io/)
 - [Code for Sabae](https://c4.sabae.cc/)
 - [PCN武生](https://www.facebook.com/pcn.takefu/)
+- [株式会社jig.jp](https://jig.jp/)
 
 ## 謝辞
 
