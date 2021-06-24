@@ -94,14 +94,15 @@
 - [効率的で厳格なCSV、StrictCSV](https://github.com/code4fukui/StrictCSV/blob/main/README.md)
 - [文字のベースレジストリ、文字情報基盤のJavaScriptライブラリ](https://github.com/code4fukui/mojikiban)
 
-## 関連団体
+## 連携団体
 
 - [Code for Japan](https://www.code4japan.org/)
-- [CyberValley](https://cybervalley.jp/)
+- [CyberValley, Japan](https://cybervalley.jp/)
 - [福井県こどもプログラミング協議会](https://fkpc.github.io/)
 - [Code for Sabae](https://c4.sabae.cc/)
 - [PCN武生](https://www.facebook.com/pcn.takefu/)
 - [株式会社jig.jp](https://jig.jp/)
+- [越前海岸盛り上げ隊](https://discoverechizen.com/)
 
 ## 謝辞
 
