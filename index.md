@@ -104,6 +104,7 @@
 - [株式会社jig.jp](https://jig.jp/)
 - [越前海岸盛り上げ隊](https://discoverechizen.com/)
 - [白鷺舎](https://hakurosha.wixsite.com/home)
+- [福井市東京事務所](https://www.city.fukui.lg.jp/dept/d120/tokyo/index.html)
 
 ## 謝辞
 
