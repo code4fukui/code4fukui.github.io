@@ -93,6 +93,7 @@
 - [TownID Japan (日本まちID)](https://github.com/code4fukui/TownID/blob/main/README.md)
 - [効率的で厳格なCSV、StrictCSV](https://github.com/code4fukui/StrictCSV/blob/main/README.md)
 - [文字のベースレジストリ、文字情報基盤のJavaScriptライブラリ](https://github.com/code4fukui/mojikiban)
+- [イベント福井](https://code4fukui.github.io/event_fukui/)
 
 ## 連携団体
 
