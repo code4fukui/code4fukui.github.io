@@ -1,5 +1,7 @@
 # web
 
+![](code4fukui_logo.png)
+
 web site of "Code for Fukui"
 
 https://code4fukui.github.io/
