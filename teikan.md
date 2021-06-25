@@ -1,4 +1,4 @@
-# Code for Fukui 定款(案)
+# Code for Fukui 定款
 
 ## 第1章 総則
 
