@@ -2,6 +2,8 @@
 
 ## Code for Fukuiとは
 
+![](code4fukui_logo.png)
+
 [Code for Fukui](index.html)は、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です。
 
 [Code for Fukui](index.html)は、地域の課題をテクノロジーで解決するシビックテック活動を通じて、自らが考え、行動し、繋がりながら、より良いまちを作れる環境を広めていくことを目的としています。新たなライフスタイルを創造し、「[CyberValley](https://cybervalley.jp/)」から発信します。
