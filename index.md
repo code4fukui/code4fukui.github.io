@@ -47,7 +47,7 @@
 
 ## 定款
 
-[定款（案）](teikan.html)
+[定款](teikan.html)
 
 ## Code for Japanとの連携
 
