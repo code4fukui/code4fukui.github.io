@@ -103,7 +103,6 @@
 - [文字のベースレジストリ、文字情報基盤のJavaScriptライブラリ](https://github.com/code4fukui/mojikiban)
 - [イベント福井](https://code4fukui.github.io/event_fukui/)
 - [FUKUIワクチンダッシュボード](https://code4fukui.github.io/vaccine_dashboard/select.html)
-- [イベント福井](https://code4fukui.github.io/event_fukui/)
 - [プレス背景](https://github.com/code4fukui/pressbg/)
 
 ## 連携団体
