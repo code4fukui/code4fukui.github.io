@@ -104,6 +104,7 @@
 - [イベント福井](https://code4fukui.github.io/event_fukui/)
 - [FUKUIワクチンダッシュボード](https://code4fukui.github.io/vaccine_dashboard/select.html)
 - [プレス背景](https://github.com/code4fukui/pressbg/)
+- [ふくいれしきまっぷ（仮）](https://github.com/code4fukui/history/)
 
 ## 連携団体
 
