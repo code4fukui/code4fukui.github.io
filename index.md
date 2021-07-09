@@ -2,7 +2,9 @@
 
 ![](code4fukui_logo.png)
 
-Code for FUKUIは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です ([Cdoe for FUKUIとは](about.html))
+Code for FUKUIは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です
+
+→ [Cdoe for FUKUIとは](about.html)
 
 ## プロジェクト
 
