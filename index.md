@@ -48,6 +48,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [越前海岸盛り上げ隊](https://discoverechizen.com/)
 - [白鷺舎](https://hakurosha.wixsite.com/home)
 - [福井市東京事務所](https://www.city.fukui.lg.jp/dept/d120/tokyo/index.html)
+- [福井高専](https://www.fukui-nct.ac.jp/)
 
 ## 謝辞
 
