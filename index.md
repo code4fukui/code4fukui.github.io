@@ -40,8 +40,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## コミュニティ
 
-→ [こんなアプリがほしいコーナー](https://github.com/code4fukui/code4fukui.github.io/issues/2)
-→ [その他](https://github.com/code4fukui/code4fukui.github.io/issues)
+- [こんなアプリがほしいコーナー](https://github.com/code4fukui/code4fukui.github.io/issues/2)
+- [その他](https://github.com/code4fukui/code4fukui.github.io/issues)
 
 ## 連携団体
 
