@@ -36,10 +36,12 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [FUKUIワクチンダッシュボード](https://code4fukui.github.io/vaccine_dashboard/select.html)
 - [プレス背景](https://github.com/code4fukui/pressbg/)
 - [ふくいれしきまっぷ（仮）](https://github.com/code4fukui/history/)
+- [かんたんマップアプリ](https://github.com/code4fukui/map/)
 
-## こんなアプリがほしい
+## コミュニティ
 
-→ https://github.com/code4fukui/code4fukui.github.io/issues
+→ [こんなアプリがほしいコーナー](https://github.com/code4fukui/code4fukui.github.io/issues/2)
+→ [その他](https://github.com/code4fukui/code4fukui.github.io/issues)
 
 ## 連携団体
 
