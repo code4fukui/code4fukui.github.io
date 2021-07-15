@@ -37,6 +37,10 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [プレス背景](https://github.com/code4fukui/pressbg/)
 - [ふくいれしきまっぷ（仮）](https://github.com/code4fukui/history/)
 
+## こんなアプリがほしい
+
+→ https://github.com/code4fukui/code4fukui.github.io/issues
+
 ## 連携団体
 
 - [Code for Japan](https://www.code4japan.org/)
