@@ -80,5 +80,5 @@
 
 所在地　：福井県越前市府中一丁目11番2号　市民プラザたけふ３階
 
-mail   ：code4fukui (＠gmail.com)
+mail　　：code4fukui (＠gmail.com)
 
