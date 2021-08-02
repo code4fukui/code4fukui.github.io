@@ -70,3 +70,14 @@
 [Code for FUKUI](index.html)は、シビックテック活動を通じて、課題に立ち向かうためのいろいろなツールを発明、活用できる地域にしていきます。そして、[Code for FUKUI](index.html)は、この取組みを福井を始めとする北陸の地形と環境、新しいものに取り組む姿勢がシリコンバレーと似ていることに着目して名付けられた「[CyberValley](https://cybervalley.jp/)」で活動します。
 
 [Code for FUKUI](index.html)は、いろいろなツールを発明、活用することで、福井から新たなライフスタイル創出へ「[CyberValley](https://cybervalley.jp/)」で取り組み、「[CyberValley](https://cybervalley.jp/)」から発信します。
+
+
+## 団体概要
+
+団体名称：「Code for FUKUI （コード　フォー　フクイ）
+代表者　：理事長　福野泰介
+所在地　：福井県越前市府中一丁目11番2号　市民プラザたけふ３階
+mail   ：code4fukui (＠gmail.com)
+
+
+
