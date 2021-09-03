@@ -37,6 +37,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [プレス背景](https://github.com/code4fukui/pressbg/)
 - [ふくいれしきまっぷ（仮）](https://github.com/code4fukui/history/)
 - [かんたんマップアプリ](https://github.com/code4fukui/map/)
+- [福井県河川水位オープンデータ](https://github.com/code4fukui/waterlevel_fukui)
+- [デジタル庁オープンデータ](https://github.com/code4fukui/digital-agency-jp)
 
 ## コミュニティ
 
