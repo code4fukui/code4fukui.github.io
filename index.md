@@ -64,7 +64,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 - [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html)
 - [Code for FUKUI発足 ITで地域の課題解決 ／福井 | 毎日新聞](https://mainichi.jp/articles/20210702/ddl/k18/040/258000c)
-- [テクノロジーで地域課題解決 コードフォーフクイ発足 ：日刊福井](https://www.chunichi.co.jp/article/279747)
+- [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井](https://www.chunichi.co.jp/article/279747)
+- [通学路の危険　デジタル化　越前市国高地区　有志団体とマップ　更新容易、情報量多く ／福井](https://www.fukuishimbun.co.jp/articles/-/1377164)
 
 ## 謝辞
 
