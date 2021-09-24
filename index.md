@@ -6,6 +6,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 → [Cdoe for FUKUIとは](about.html)
 
+→ [Twitter](https://twitter.com/code4fukui)
+
 ## プロジェクト
 
 - [毎月最終金曜夜の交流イベント サイバーフライデー](https://cybervalley.jp/)
