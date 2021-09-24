@@ -67,6 +67,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井](https://www.chunichi.co.jp/article/279747)
 - [通学路の危険　デジタル化　越前市国高地区　有志団体とマップ　更新容易、情報量多く ／福井](https://www.fukuishimbun.co.jp/articles/-/1377164)
 - [場学実「お寺でのステューデンテックから始める、シビックテックへの挑戦」PCN武生代表、Code for fukui理事　森田秋馬 ／Code for Japan Summit 2021](https://www.youtube.com/watch?v=0j4pKEUz_gw)
+- [越前市の自治会が「地域安全マップ」電子地図に変更 ／NHK](https://www3.nhk.or.jp/lnews/fukui/20210923/3050009134.html)
 
 ## 謝辞
 
