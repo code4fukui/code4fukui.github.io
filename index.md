@@ -6,7 +6,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 → [Cdoe for FUKUIとは](about.html)
 
-→ [Twitter](https://twitter.com/code4fukui)
+→ [公式 Twitter](https://twitter.com/code4fukui)
 
 ## プロジェクト
 
