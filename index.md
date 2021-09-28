@@ -43,6 +43,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [デジタル庁オープンデータ](https://github.com/code4fukui/digital-agency-jp)
 - [オープンデータ標準利用規約](https://github.com/code4fukui/copyright-policy-jp)
 - [越前海岸盛り上げ隊マップ](https://code4fukui.github.io/echizenkaigan/)
+- [創廃業ダッシュボード、法人オープンデータ](https://github.com/code4fukui/gBizINFO)
+- [国名一覧 ISO 3166](https://github.com/code4fukui/iso3166)
 
 ## コミュニティ
 
