@@ -66,14 +66,14 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## メディア掲載
 
-- [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
+- [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　／WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
 - [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井 2021/06/26](https://www.chunichi.co.jp/article/279747)
 - [個別接種空き瞬時に　コロナワクチンサイト作成　行政職員や教員　有志団体結成　ＩＴで地域課題解決 ／福井新聞 2021/06/30](https://www.fukuishimbun.co.jp/articles/-/1347528)
 - [Code for FUKUI発足 ITで地域の課題解決 ／毎日新聞 2021/07/02](https://mainichi.jp/articles/20210702/ddl/k18/040/258000c)
 - [通学路の危険　デジタル化　越前市国高地区　有志団体とマップ　更新容易、情報量多く ／福井新聞 2021/08/13](https://www.fukuishimbun.co.jp/articles/-/1377164)
 - [場学実「お寺でのステューデンテックから始める、シビックテックへの挑戦」PCN武生代表、Code for fukui理事　森田秋馬 ／Code for Japan Summit 2021 2021/09/19](https://www.youtube.com/watch?v=0j4pKEUz_gw)
 - [越前市の自治会が「地域安全マップ」電子地図に変更 ／NHK 2021/09/23](https://www3.nhk.or.jp/lnews/fukui/20210923/3050009134.html)
-- [わが家の防災マップ審査　国高地区自治振興会　奨励賞 ／福井新聞 2021/09/28](https://www.fukuishimbun.co.jp/articles/reader/1406469)
+- [わが家の防災マップ審査　国高地区自治振興会「地域安全マップ」が奨励賞 ／福井新聞 2021/09/28](https://www.fukuishimbun.co.jp/articles/reader/1406469)
 - [第1回　地方創生スタートアップス・サミット　基調講演　みんなで創る次世代データ社会　理事長　福野泰介／時事通信社 2021/09/30](https://www.jiji.com/jc/article?k=000000042.000008376&g=prt) 
 - [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会」電子地図に変更 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
 
