@@ -64,6 +64,11 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [福井市東京事務所](https://www.city.fukui.lg.jp/dept/d120/tokyo/index.html)
 - [福井高専](https://www.fukui-nct.ac.jp/)
 
+## 講演、パネラー出演
+
+- [場学実「お寺でのステューデンテックから始める、シビックテックへの挑戦」PCN武生代表、Code for fukui理事　森田秋馬 ／Code for Japan Summit 2021 2021/09/19](https://www.youtube.com/watch?v=0j4pKEUz_gw)
+- [第1回　地方創生スタートアップス・サミット　基調講演　みんなで創る次世代データ社会　理事長　福野泰介／時事通信社 2021/09/30](https://www.jiji.com/jc/article?k=000000042.000008376&g=prt) 
+
 ## メディア掲載
 
 - [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　／WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
