@@ -47,6 +47,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [越前海岸盛り上げ隊マップ](https://code4fukui.github.io/echizenkaigan/)
 - [創廃業ダッシュボード、法人オープンデータ](https://github.com/code4fukui/gBizINFO)
 - [国名一覧 ISO 3166](https://github.com/code4fukui/iso3166)
+- [鯖江市ハザードマップ](https://github.com/code4fukui/sabae-hazardmap)
+- [越前市ハザードマップ](https://github.com/code4fukui/echizencity-hazardmap)
 
 ## コミュニティ
 
