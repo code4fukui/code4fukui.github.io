@@ -25,7 +25,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [ノベルふくい](https://github.com/code4fukui/novel-fukui/)
 - [日本の風景オープンデータ featuring FIND/47](https://code4fukui.github.io/find47/)
 - [localgovjp 日本の地方自治体一覧オープンデータ](https://github.com/code4fukui/localgovjp)
-- [越前市国高地区 地域安全マップ「キッズセーフ」](https://code4fukui.github.io/kunitaka/kidssafe.html) [お披露目会レポート](https://github.com/code4fukui/blog/blob/main/README.md)
+- [越前市国高地区 地域安全マップ「キッズセーフ」](https://code4fukui.github.io/kunitaka/kidssafe.html) - [お披露目会レポート](https://github.com/code4fukui/blog/blob/main/README.md)
 - [梵オープンデータ](https://github.com/code4fukui/born)
 - [福井市グルメコレクション](https://github.com/code4fukui/fukuigc)
 - [福井県池田町のこども向けアクティビティー検索 WithKids](https://code4fukui.github.io/withkids/)
