@@ -21,13 +21,12 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [時間割ガチャ](https://github.com/code4fukui/timetable/)
 - [福井県長期ビジョン オープンデータ](https://github.com/code4fukui/vision)
 - [政府CIOポータル 標準ガイドライン群用語集 オープンデータ化](https://github.com/code4fukui/stdwords-jp)
-- [特許庁 モデル契約書
-  GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
+- [特許庁 モデル契約書 GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
 - [構造化テキストファイルMarkdown](https://github.com/code4fukui/Markdown/)
 - [ノベルふくい](https://github.com/code4fukui/novel-fukui/)
 - [日本の風景オープンデータ featuring FIND/47](https://code4fukui.github.io/find47/)
 - [localgovjp 日本の地方自治体一覧オープンデータ](https://github.com/code4fukui/localgovjp)
-- [越前市国高地区シビックテック](https://github.com/code4fukui/kunitaka)
+- [越前市国高地区 地域安全マップ「キッズセーフ」](https://code4fukui.github.io/kunitaka/kidssafe.html) - [お披露目会レポート](https://github.com/code4fukui/blog/blob/main/README.md)
 - [梵オープンデータ](https://github.com/code4fukui/born)
 - [福井市グルメコレクション](https://github.com/code4fukui/fukuigc)
 - [福井県池田町のこども向けアクティビティー検索 WithKids](https://code4fukui.github.io/withkids/)
@@ -91,7 +90,9 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [越前市の自治会が「地域安全マップ」電子地図に変更 ／NHK 2021/09/23](https://www3.nhk.or.jp/lnews/fukui/20210923/3050009134.html)
 - [わが家の防災マップ審査　国高地区自治振興会「地域安全マップ」が奨励賞 ／福井新聞 2021/09/28](https://www.fukuishimbun.co.jp/articles/reader/1406469)
 - [第1回　地方創生スタートアップス・サミット　基調講演　みんなで創る次世代データ社会　理事長　福野泰介／時事通信社 2021/09/30](https://www.jiji.com/jc/article?k=000000042.000008376&g=prt) 
-- [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会」電子地図に変更 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
+- [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
+- [越前市版備蓄ナビ開発へ　ＩＴ有志団体　災害備えアプリ　家族構成合わせ必需品表示　大雪想定　福井高専生も議論 ／福井新聞 2022/01/14](https://www.fukuishimbun.co.jp/articles/-/1473567)
+- [越前市 災害時の備蓄品アプリ制作 ／NHK 2022/01/14](https://www3.nhk.or.jp/lnews/fukui/20220114/3050010129.html)
 
 ## 謝辞
 
