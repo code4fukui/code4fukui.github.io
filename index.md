@@ -10,6 +10,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [デジタルツインえちぜん](digitaltwin/)
 - [Webプログラミング道場](https://github.com/code4fukui/htmlprac)
 - [毎月最終金曜夜の交流イベント サイバーフライデー](https://cybervalley.jp/)
 - [福井県施設ダッシュボード](https://github.com/code4fukui/facilinow)
