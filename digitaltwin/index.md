@@ -4,6 +4,11 @@
 
 サイバー空間に双子のようにリアルを再現する「デジタルツイン」を福井で実現するプロジェクトです。
 
+## 関連プロジェクト
+
+- [VRふくい](https://code4fukui.github.io/vr-fukui/)
+- [glb-viewer](https://code4fukui.github.io/glb-viewer/)
+
 ## 履歴
 
 - 2022-02-17 キックオフ
