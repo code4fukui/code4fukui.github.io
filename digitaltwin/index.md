@@ -17,7 +17,7 @@
 
 ## 参加希望、お問い合わせ
 
-mail　　：　code4fukui (＠gmail.com)
+mail: code4fukui (＠gmail.com)
 
 ## 履歴
 
