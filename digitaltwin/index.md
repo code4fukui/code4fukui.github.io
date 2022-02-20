@@ -9,6 +9,10 @@
 - [VRふくい](https://code4fukui.github.io/vr-fukui/)
 - [glb-viewer](https://code4fukui.github.io/glb-viewer/)
 
+## デジタルツインえちぜん制作委員会 名簿
+
+- [デジタルツインえちぜん制作委員会 名簿](members.csv)
+
 ## 履歴
 
 - 2022-02-17 キックオフ
