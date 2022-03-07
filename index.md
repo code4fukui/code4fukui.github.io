@@ -96,9 +96,10 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
 - [越前市版備蓄ナビ開発へ　ＩＴ有志団体　災害備えアプリ　家族構成合わせ必需品表示　大雪想定　福井高専生も議論 ／福井新聞 2022/01/14](https://www.fukuishimbun.co.jp/articles/-/1473567)
 - [越前市 災害時の備蓄品アプリ制作 ／NHK 2022/01/14](https://www3.nhk.or.jp/lnews/fukui/20220114/3050010129.html)
-- [福井県、県内の自治体と連携し「DX FUKUIアイデアボックス」をスタート！ | advanced by massmedian（アドバンスト） ちょっと先の価値観を見つけるメディア](https://advanced.massmedian.co.jp/news/detail/id=9193)
+- [福井県、県内の自治体と連携し「DX FUKUIアイデアボックス」をスタート！／advanced by massmedian（アドバンスト） ちょっと先の価値観を見つけるメディア](https://advanced.massmedian.co.jp/news/detail/id=9193)
 - [メタバースに　越前市再現を　仮想構築へ　市民団体発足　写真データ活用　イベントも意欲 ／福井新聞 2022/02/19](https://www.fukuishimbun.co.jp/articles/-/1496630)
 - [仮想空間「メタバース」を使い 越前市の魅力発信 ／NHK 2022/02/19](https://www3.nhk.or.jp/lnews/fukui/20220218/3050010440.html)
+- [立体的なバーチャル空間どう作る?　越前市の市民団体が「メタバース」勉強会 ／福井新聞 2022/03/07](https://www.fukuishimbun.co.jp/articles/-/1506451)
 
 ## 謝辞
 
