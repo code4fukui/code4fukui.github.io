@@ -10,6 +10,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [サイガイクン](https://github.com/code4fukui/saigaikun)
 - [越前超検定｜越前町検定2022](https://www.town-echizen.ed.jp/~asahi-jh/echizencho-kentei/top.html)
 - [デジタルツインえちぜん](digitaltwin/)
 - [Webプログラミング道場](https://github.com/code4fukui/htmlprac)
