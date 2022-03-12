@@ -24,8 +24,8 @@ mail: code4fukui (＠gmail.com)
 ## 履歴
 
 - 2022-02-17 [デジタルツインえちぜん製作実行委員会 キックオフ](https://fukuno.jig.jp/3494)
-- 2022-03-05 [デジタルツインえちぜん製作実行委員会 勉強会#1](https://fukuno.jig.jp/3510)
-- 2022-03-20 デジタルツインえちぜん製作実行委員会 制作会#1 18:00- [越前市 市民プラザたけふ3F 市民交流センター](https://www.city.echizen.lg.jp/office/010/130030/shiminplazatakefu.html)
+- 2022-03-05 [デジタルツインえちぜん製作実行委員会 勉強会1](https://fukuno.jig.jp/3510)
+- 2022-03-20 デジタルツインえちぜん製作実行委員会 制作会1 18:00- [越前市 市民プラザたけふ3F 市民交流センター](https://www.city.echizen.lg.jp/office/010/130030/shiminplazatakefu.html)
 
 ## メディア掲載
 
