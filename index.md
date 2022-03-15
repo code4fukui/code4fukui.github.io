@@ -86,6 +86,10 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## メディア掲載
 
+- [備蓄品確認できる防災アプリ完成 ／NHK 2022/03/11](https://www3.nhk.or.jp/lnews/fukui/20220311/3050010612.html)
+- [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／Yahooニュース 2022/03/11](https://news.yahoo.co.jp/articles/d729275ee3e4d8a0cec9f06bf6baa094ee411032)
+- [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／FNNプライムオンライン 2022/03/11](https://www.fnn.jp/articles/-/329843)
+- [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／福井テレビ 2022/03/11](https://www.fukui-tv.co.jp/?fukui_news=%E5%BF%85%E8%A6%81%E3%81%AA%E5%82%99%E8%93%84%E5%93%81%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%80%E3%80%80%E8%B6%8A%E5%89%8D%E5%B8%82%E3%81%8C%E7%81%BD%E5%AE%B3%E6%99%82)
 - [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　／WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
 - [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井 2021/06/26](https://www.chunichi.co.jp/article/279747)
 - [個別接種空き瞬時に　コロナワクチンサイト作成　行政職員や教員　有志団体結成　ＩＴで地域課題解決 ／福井新聞 2021/06/30](https://www.fukuishimbun.co.jp/articles/-/1347528)
