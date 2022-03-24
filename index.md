@@ -10,6 +10,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [さばえSDGsアプリ「ハピー」（仮称）](https://github.com/code4fukui/happy/)
 - [備蓄ナビえちぜん](https://bichikunavi.code4fukui.org/)
 - [サイガイクン](https://github.com/code4fukui/saigaikun)
 - [越前超検定｜越前町検定2022](https://www.town-echizen.ed.jp/~asahi-jh/echizencho-kentei/top.html)
