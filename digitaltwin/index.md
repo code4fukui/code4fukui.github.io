@@ -12,6 +12,8 @@
 - [glb-viewer](https://code4fukui.github.io/glb-viewer/)
 - [VR地図](https://github.com/code4fukui/vrmap/)
 - [高志学リレー講座会場 VRプレゼンデモ](https://fukuno.jig.jp/3509)
+- [VR川](https://code4fukui.github.io/vr-river/)
+- [VR吉野瀬川ダム](https://code4fukui.github.io/vr-kono/kono.html)
 
 ## デジタルツインえちぜん制作委員会 名簿
 
