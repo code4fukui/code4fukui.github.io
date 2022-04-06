@@ -88,26 +88,28 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## メディア掲載
 
+
 - [備蓄品確認できる防災アプリ完成 ／NHK 2022/03/11](https://www3.nhk.or.jp/lnews/fukui/20220311/3050010612.html)
 - [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／Yahooニュース 2022/03/11](https://news.yahoo.co.jp/articles/d729275ee3e4d8a0cec9f06bf6baa094ee411032)
 - [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／FNNプライムオンライン 2022/03/11](https://www.fnn.jp/articles/-/329843)
 - [必要な備蓄品が簡単にわかる　　越前市が災害時「備蓄ナビ」アプリを導入【福井】 ／福井テレビ 2022/03/11](https://www.fukui-tv.co.jp/?fukui_news=%E5%BF%85%E8%A6%81%E3%81%AA%E5%82%99%E8%93%84%E5%93%81%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%80%E3%80%80%E8%B6%8A%E5%89%8D%E5%B8%82%E3%81%8C%E7%81%BD%E5%AE%B3%E6%99%82)
-- [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　／WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
-- [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井 2021/06/26](https://www.chunichi.co.jp/article/279747)
-- [個別接種空き瞬時に　コロナワクチンサイト作成　行政職員や教員　有志団体結成　ＩＴで地域課題解決 ／福井新聞 2021/06/30](https://www.fukuishimbun.co.jp/articles/-/1347528)
-- [Code for FUKUI発足 ITで地域の課題解決 ／毎日新聞 2021/07/02](https://mainichi.jp/articles/20210702/ddl/k18/040/258000c)
-- [通学路の危険　デジタル化　越前市国高地区　有志団体とマップ　更新容易、情報量多く ／福井新聞 2021/08/13](https://www.fukuishimbun.co.jp/articles/-/1377164)
-- [場学実「お寺でのステューデンテックから始める、シビックテックへの挑戦」PCN武生代表、Code for fukui理事　森田秋馬 ／Code for Japan Summit 2021 2021/09/19](https://www.youtube.com/watch?v=0j4pKEUz_gw)
-- [越前市の自治会が「地域安全マップ」電子地図に変更 ／NHK 2021/09/23](https://www3.nhk.or.jp/lnews/fukui/20210923/3050009134.html)
-- [わが家の防災マップ審査　国高地区自治振興会「地域安全マップ」が奨励賞 ／福井新聞 2021/09/28](https://www.fukuishimbun.co.jp/articles/reader/1406469)
-- [第1回　地方創生スタートアップス・サミット　基調講演　みんなで創る次世代データ社会　理事長　福野泰介／時事通信社 2021/09/30](https://www.jiji.com/jc/article?k=000000042.000008376&g=prt) 
-- [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
-- [越前市版備蓄ナビ開発へ　ＩＴ有志団体　災害備えアプリ　家族構成合わせ必需品表示　大雪想定　福井高専生も議論 ／福井新聞 2022/01/14](https://www.fukuishimbun.co.jp/articles/-/1473567)
-- [越前市 災害時の備蓄品アプリ制作 ／NHK 2022/01/14](https://www3.nhk.or.jp/lnews/fukui/20220114/3050010129.html)
-- [福井県、県内の自治体と連携し「DX FUKUIアイデアボックス」をスタート！／advanced by massmedian（アドバンスト） ちょっと先の価値観を見つけるメディア](https://advanced.massmedian.co.jp/news/detail/id=9193)
-- [メタバースに　越前市再現を　仮想構築へ　市民団体発足　写真データ活用　イベントも意欲 ／福井新聞 2022/02/19](https://www.fukuishimbun.co.jp/articles/-/1496630)
-- [仮想空間「メタバース」を使い 越前市の魅力発信 ／NHK 2022/02/19](https://www3.nhk.or.jp/lnews/fukui/20220218/3050010440.html)
 - [立体的なバーチャル空間どう作る?　越前市の市民団体が「メタバース」勉強会 ／福井新聞 2022/03/07](https://www.fukuishimbun.co.jp/articles/-/1506451)
+- [仮想空間「メタバース」を使い 越前市の魅力発信 ／NHK 2022/02/19](https://www3.nhk.or.jp/lnews/fukui/20220218/3050010440.html)
+- [メタバースに　越前市再現を　仮想構築へ　市民団体発足　写真データ活用　イベントも意欲 ／福井新聞 2022/02/19](https://www.fukuishimbun.co.jp/articles/-/1496630)
+- [福井県、県内の自治体と連携し「DX FUKUIアイデアボックス」をスタート！／advanced by massmedian（アドバンスト） ちょっと先の価値観を見つけるメディア](https://advanced.massmedian.co.jp/news/detail/id=9193)
+- [越前市 災害時の備蓄品アプリ制作 ／NHK 2022/01/14](https://www3.nhk.or.jp/lnews/fukui/20220114/3050010129.html)
+- [越前市版備蓄ナビ開発へ　ＩＴ有志団体　災害備えアプリ　家族構成合わせ必需品表示　大雪想定　福井高専生も議論 ／福井新聞 2022/01/14](https://www.fukuishimbun.co.jp/articles/-/1473567)
+- [安心し暮らせる町へ　マップと看板を製作　越前市国高自治振興会 ／福井新聞 2021/10/01](https://www.fukuishimbun.co.jp/articles/-/1408490)
+- [第1回　地方創生スタートアップス・サミット　基調講演　みんなで創る次世代データ社会　理事長　福野泰介／時事通信社 2021/09/30](https://www.jiji.com/jc/article?k=000000042.000008376&g=prt) 
+- [わが家の防災マップ審査　国高地区自治振興会「地域安全マップ」が奨励賞 ／福井新聞 2021/09/28](https://www.fukuishimbun.co.jp/articles/reader/1406469)
+- [越前市の自治会が「地域安全マップ」電子地図に変更 ／NHK 2021/09/23](https://www3.nhk.or.jp/lnews/fukui/20210923/3050009134.html)
+- [場学実「お寺でのステューデンテックから始める、シビックテックへの挑戦」PCN武生代表、Code for fukui理事　森田秋馬 ／Code for Japan Summit 2021 2021/09/19](https://www.youtube.com/watch?v=0j4pKEUz_gw)
+- [通学路の危険　デジタル化　越前市国高地区　有志団体とマップ　更新容易、情報量多く ／福井新聞 2021/08/13](https://www.fukuishimbun.co.jp/articles/-/1377164)
+- [Code for FUKUI発足 ITで地域の課題解決 ／毎日新聞 2021/07/02](https://mainichi.jp/articles/20210702/ddl/k18/040/258000c)
+- [個別接種空き瞬時に　コロナワクチンサイト作成　行政職員や教員　有志団体結成　ＩＴで地域課題解決 ／福井新聞 2021/06/30](https://www.fukuishimbun.co.jp/articles/-/1347528)
+- [テクノロジーで地域課題解決 コードフォーフクイ発足 ／日刊福井 2021/06/26](https://www.chunichi.co.jp/article/279747)
+- [有志団体がコロナワクチンサイト作成 個別接種空き瞬時に　／WAMNET](https://www.wam.go.jp/content/wamnet/sppub/iryo/fukushiiryounews/20210701_101800.html) 
+
 
 ## 謝辞
 
