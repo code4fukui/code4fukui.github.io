@@ -14,6 +14,7 @@
 - [高志学リレー講座会場 VRプレゼンデモ](https://fukuno.jig.jp/3509)
 - [VR川](https://code4fukui.github.io/vr-river/)
 - [VR吉野瀬川ダム](https://code4fukui.github.io/vr-kono/kono.html)
+- [VR味真野小学校](https://fukuno.jig.jp/3544)
 
 ## デジタルツインえちぜん制作委員会 名簿
 
