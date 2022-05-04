@@ -10,6 +10,10 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [LinkedCSV](https://github.com/code4fukui/LinkedCSV/)
+- [開催予定イベント情報](https://code4fukui.github.io/event-japan/app/)
+- [イベント・ベース・レジストリまとめ](https://github.com/code4fukui/event-japan/)
+- [アドレス・ベース・レジストリまとめ](https://github.com/code4fukui/address-japan/)
 - [さばえSDGsアプリ「ハピー」（仮称）](https://github.com/code4fukui/happy/)
 - [備蓄ナビえちぜん](https://bichikunavi.code4fukui.org/)
 - [サイガイクン](https://github.com/code4fukui/saigaikun)
