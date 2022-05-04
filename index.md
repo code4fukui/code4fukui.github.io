@@ -10,7 +10,9 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
-- [LinkedCSV](https://github.com/code4fukui/LinkedCSV/)
+- [鯖江WiFiマップ wifisabae](https://github.com/code4fukui/wifisabae/)
+- [LOD取得の標準API SPARQL、odpへの簡単アクセス](https://github.com/code4fukui/SPARQL/)
+- [CSVをLODに！ LinkedCSV](https://github.com/code4fukui/LinkedCSV/)
 - [開催予定イベント情報](https://code4fukui.github.io/event-japan/app/)
 - [イベント・ベース・レジストリまとめ](https://github.com/code4fukui/event-japan/)
 - [アドレス・ベース・レジストリまとめ](https://github.com/code4fukui/address-japan/)
