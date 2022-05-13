@@ -10,6 +10,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [福井県の観光スポット](https://github.com/code4fukui/fukui-spot)
 - [鯖江WiFiマップ wifisabae](https://github.com/code4fukui/wifisabae/)
 - [LOD取得の標準API SPARQL、odpへの簡単アクセス](https://github.com/code4fukui/SPARQL/)
 - [CSVをLODに！ LinkedCSV](https://github.com/code4fukui/LinkedCSV/)
