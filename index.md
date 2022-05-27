@@ -8,7 +8,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 → [公式 Twitter](https://twitter.com/code4fukui)
 
-→ [アイデア募集！](https://github.com/code4fukui/code4fukui.github.io/issues)
+→ [福井県に関するアイデア募集！](https://github.com/code4fukui/code4fukui.github.io/issues)
 
 ## プロジェクト
 
