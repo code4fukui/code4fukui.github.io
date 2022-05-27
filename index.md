@@ -8,8 +8,11 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 → [公式 Twitter](https://twitter.com/code4fukui)
 
+→ [アイデア募集！](https://github.com/code4fukui/code4fukui.github.io/issues)
+
 ## プロジェクト
 
+- [Ed25519による分散型ID](https://github.com/code4fukui/Ed25519)
 - [福井県の観光スポット](https://github.com/code4fukui/fukui-spot)
 - [鯖江WiFiマップ wifisabae](https://github.com/code4fukui/wifisabae/)
 - [LOD取得の標準API SPARQL、odpへの簡単アクセス](https://github.com/code4fukui/SPARQL/)
