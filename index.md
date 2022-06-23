@@ -12,6 +12,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [鯖江市役所JK課ウェブサイト](https://github.com/code4fukui/sabae-jk)
 - [Ed25519による分散型ID](https://github.com/code4fukui/Ed25519)
 - [福井県の観光スポット](https://github.com/code4fukui/fukui-spot)
 - [鯖江WiFiマップ wifisabae](https://github.com/code4fukui/wifisabae/)
@@ -86,6 +87,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [NPO法人エル・コミュニティ](https://www.l-community.com/)
 - [ふくいテレワーク女子](https://f-teleworkjoshi.com/)
 - [さくらいと](https://www.sakulight.net/)
+- [鯖江市役所JK課](https://sabae-jk.jp/)
 
 ## 講演、パネラー出演
 
