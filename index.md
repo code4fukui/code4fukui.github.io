@@ -12,6 +12,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [VR東尋坊](https://github.com/code4fukui/vr-tojinbo)
 - [福井の海 - トヨタソーシャルフェス](https://github.com/code4fukui/fukui-sea)
 - [鯖江市役所JK課ウェブサイト](https://github.com/code4fukui/sabae-jk)
 - [Ed25519による分散型ID](https://github.com/code4fukui/Ed25519)
