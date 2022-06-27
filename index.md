@@ -12,7 +12,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
-- [福井観光アプリ](https://github.com/code4fukui/fukui-kanko/issues)
+- [福井観光アプリ](https://github.com/code4fukui/fukui-kanko/)
 - [VR東尋坊](https://github.com/code4fukui/vr-tojinbo)
 - [福井の海 - トヨタソーシャルフェス](https://github.com/code4fukui/fukui-sea)
 - [鯖江市役所JK課ウェブサイト](https://github.com/code4fukui/sabae-jk)
