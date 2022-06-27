@@ -5,10 +5,13 @@
 Code for FUKUIは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です
 
 → [Code for FUKUIとは](about.html)
-
 → [公式 Twitter](https://twitter.com/code4fukui)
+→ [アイデア、質問、何でも相談所！](https://github.com/code4fukui/code4fukui.github.io/issues)
 
-→ [福井県に関するアイデア募集！](https://github.com/code4fukui/code4fukui.github.io/issues)
+## イベント
+
+- 2022-07-16 [福井県presents みんなでつくる稼ぐ観光ハッカソン | Peatix](https://ideathon-hackathon-fukui.peatix.com/)
+- 2022-07-29 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 
 ## プロジェクト
 
