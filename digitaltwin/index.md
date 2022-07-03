@@ -16,6 +16,7 @@
 - [VR吉野瀬川ダム](https://code4fukui.github.io/vr-kono/kono.html)
 - [VR味真野小学校](https://fukuno.jig.jp/3544)
 - [VR東尋坊](https://code4fukui.github.io/vr-tojinbo/)
+- [VRうおとめ](https://code4fukui.github.io/vr-uotome/)
 
 ## デジタルツインえちぜん制作委員会 名簿
 
