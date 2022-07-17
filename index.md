@@ -16,6 +16,12 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [星空フォトウエディング](https://github.com/code4fukui/team1)
+- [ミケツ](https://github.com/code4fukui/fukui-kanko-hack)
+- [ふくフォト](https://github.com/code4fukui/202207-hackathon-team3)
+- [キャンプパス](https://github.com/code4fukui/fukui-camp-pass)
+- [まるてつ](https://github.com/code4fukui/fukui_old_train)
+- [福クル](https://github.com/code4fukui/fukui-kanko-hackathon-20220716)
 - [Code for FUKUI ハッカソンオープンデータ](https://github.com/code4fukui/hackathon/)
 - [福井県の観光アンケートオープンデータ解析](https://code4fukui.github.io/fukui-kanko-stat/)
 - [交通事故0プロジェクト](https://github.com/code4fukui/traffic-accident/) 福井県で年間1,000件!
