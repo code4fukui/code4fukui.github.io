@@ -16,6 +16,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [Code for FUKUI ハッカソンオープンデータ](https://github.com/code4fukui/hackathon/)
+- [福井県の観光アンケートオープンデータ解析](https://code4fukui.github.io/fukui-kanko-stat/)
 - [交通事故0プロジェクト](https://github.com/code4fukui/traffic-accident/) 福井県で年間1,000件!
 - [みんなでつくる福井の観光アプリ](https://github.com/code4fukui/fukui-kanko/)
 - [VR東尋坊](https://github.com/code4fukui/vr-tojinbo)
