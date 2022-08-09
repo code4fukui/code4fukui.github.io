@@ -17,6 +17,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [オープンソースガイドライン](https://code4fukui.github.io/opensource.guide/ja/) ([src](https://github.com/code4fukui/opensource.guide))
 - [星空フォトウエディング](https://github.com/code4fukui/team1)
 - [ミケツ](https://github.com/code4fukui/fukui-kanko-hack)
 - [ふくフォト](https://github.com/code4fukui/202207-hackathon-team3)
