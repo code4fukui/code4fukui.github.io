@@ -12,7 +12,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 - 2022-07-16 [福井県presents みんなでつくる稼ぐ観光ハッカソン | Peatix](https://ideathon-hackathon-fukui.peatix.com/)
 - 2022-07-24 [ZenIT　AIプログラミング教室（初級・中級）](https://www.facebook.com/events/3285546841676128/)
-- 2022-07-29 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2022-07-29 [サイバーフライデー 2022/7](https://cybervalley.jp/cyberfriday.html)
+- 2022-08-26 [サイバーフライデー 2022/8](https://cybervalley.jp/cyberfriday.html)
 
 ## プロジェクト
 
