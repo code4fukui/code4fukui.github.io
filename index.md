@@ -17,6 +17,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [自販機オープンデータを集めよう](https://github.com/code4fukui/jihanki)
+- [DataWithTrust - TrustData.js](https://github.com/code4fukui/DataWithTrust/)
 - [SHA256による特定項目のハッシュ化 csvhash](https://github.com/code4fukui/csvhash/)
 - [オープンソースガイドライン](https://code4fukui.github.io/opensource.guide/ja/) ([src](https://github.com/code4fukui/opensource.guide))
 - [古典リーダー](https://github.com/code4fukui/koten-reader)
