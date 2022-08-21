@@ -17,6 +17,7 @@
 - [VR味真野小学校](https://fukuno.jig.jp/3544)
 - [VR東尋坊](https://code4fukui.github.io/vr-tojinbo/)
 - [VRうおとめ](https://code4fukui.github.io/vr-uotome/)
+- [XRグルメ](https://code4fukui.github.io/xrgourmet/)
 
 ## デジタルツインえちぜん制作委員会 名簿
 
