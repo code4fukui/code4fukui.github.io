@@ -59,6 +59,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [自学をサポートするアプリ群 JIGAKU](https://github.com/code4fukui/jigaku)
 - [時間割ガチャ](https://github.com/code4fukui/timetable/)
 - [福井県長期ビジョン オープンデータ](https://github.com/code4fukui/vision)
+- [政府相互運用性フレームワーク（GIF)のMarkdown化](https://github.com/code4fukui/IMI2)
 - [政府CIOポータル 標準ガイドライン群用語集 オープンデータ化](https://github.com/code4fukui/stdwords-jp)
 - [特許庁 モデル契約書 GitHub（ギットハブ）を用いた意見募集](https://github.com/code4fukui/METI-JPO-Model-Contract)
 - [構造化テキストファイルMarkdown](https://github.com/code4fukui/Markdown/)
