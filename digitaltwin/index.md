@@ -18,6 +18,7 @@
 - [VR東尋坊](https://code4fukui.github.io/vr-tojinbo/)
 - [VRうおとめ](https://code4fukui.github.io/vr-uotome/)
 - [XRグルメ](https://code4fukui.github.io/xrgourmet/)
+- [VR越前武生駅 大観覧車](https://code4fukui.github.io/vr-echizen-takefu/)
 
 ## デジタルツインえちぜん制作委員会 名簿
 
