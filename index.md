@@ -17,6 +17,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [オープンデータライセンス](https://github.com/code4fukui/opendata-license)
+- [deck-es - deck.gl ES modules version](https://github.com/code4fukui/deck-es)
 - [自販機オープンデータを集めよう](https://github.com/code4fukui/jihanki)
 - [DataWithTrust - TrustData.js](https://github.com/code4fukui/DataWithTrust/)
 - [SHA256による特定項目のハッシュ化 csvhash](https://github.com/code4fukui/csvhash/)
