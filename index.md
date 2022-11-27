@@ -7,7 +7,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [Code for FUKUIとは](about.html)
 - [公式 Twitter](https://twitter.com/code4fukui)
 - [アイデア、質問、何でも相談所！](https://github.com/code4fukui/code4fukui.github.io/issues)
-- [Slackへ参加](https://join.slack.com/t/codeforfukui/shared_invite/zt-1g30n0mnr-g8y7eTAegytui4riQJ8d4A)
+- [Code for FUKUI Slackへ参加](https://join.slack.com/t/codeforfukui/shared_invite/zt-1g30n0mnr-g8y7eTAegytui4riQJ8d4A)
 
 ## イベント
 
