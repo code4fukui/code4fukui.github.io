@@ -11,6 +11,9 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2023-03-11 [Tokyo OSS Party!! 2023 Day 2 福井会場](https://fukui-ossparty2.peatix.com/)
+- 2023-02-11 [Tokyo OSS Party!! 2023 Day 1 福井会場](https://fukui-ossparty1.peatix.com/)
+- 2023-01-28 [福井の地盤オープンデータハッカソン](https://fukui-jiban.peatix.com/)
 - 2022-11-05/06 [NT鯖江2022](https://nt.sabae.cc/)
 - 2022-07-16 [福井県presents みんなでつくる稼ぐ観光ハッカソン | Peatix](https://ideathon-hackathon-fukui.peatix.com/)
 - 2022-07-24 [ZenIT　AIプログラミング教室（初級・中級）](https://www.facebook.com/events/3285546841676128/)
