@@ -23,6 +23,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [福井の地盤オープンデータ活用プロジェクト](https://github.com/GeoFUKUI/idea)
 - [オープンデータライセンス](https://github.com/code4fukui/opendata-license)
 - [国土地理院の標高タイルを用いた地形の3D表示](https://github.com/code4fukui/deckgl-gsi-terrain-layer)
 - [deck-es - deck.gl ES modules version](https://github.com/code4fukui/deck-es)
