@@ -21,7 +21,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - 2022-08-26 [サイバーフライデー 2022/8](https://cybervalley.jp/cyberfriday.html)
 - 2022-12-17 [『守る環境ハッカソンin鯖江』～次世代に残そう美味しい越前ガニ～](https://peatix.com/event/3412028)
 
-## 特別プロジェクト
+## 特別プロジェクト (国高キッズセーフ)
 
 - [アドベンチャー国高](https://github.com/code4fukui/adventure-kunitaka)
 - [やば道チェッカー](https://github.com/code4fukui/yabamichi-checker/)
