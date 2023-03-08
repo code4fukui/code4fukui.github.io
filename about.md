@@ -82,4 +82,4 @@
 
 mail　　：　code4fukui (＠gmail.com)
 
-DID　：　did\:key\:z6MkvtSz2Rse941zjVyhMa3bsXY8kY9dddXVcnSWpq9ZA1qi
+DID　：　`did:key:z6MkvtSz2Rse941zjVyhMa3bsXY8kY9dddXVcnSWpq9ZA1qi`
