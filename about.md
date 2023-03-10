@@ -82,4 +82,5 @@
 
 mail　　：　code4fukui (＠gmail.com)
 
-DID　：　`did:key:z6MkvtSz2Rse941zjVyhMa3bsXY8kY9dddXVcnSWpq9ZA1qi`
+公開鍵(DID)　：　`did:key:z6MkvtSz2Rse941zjVyhMa3bsXY8kY9dddXVcnSWpq9ZA1qi`
+公開鍵(Ed25519/Base16): `f42ee1180b7d7c41105bd993f8ed7d78cd7127407690aa50d85b88baf06c91f1`
