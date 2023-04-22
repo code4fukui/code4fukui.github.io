@@ -39,6 +39,7 @@ mail: code4fukui (＠gmail.com)
 - [メタバースに　越前市再現を　仮想構築へ　市民団体発足　写真データ活用　イベントも意欲 | 福井新聞2022/02/19](https://www.fukuishimbun.co.jp/articles/-/1491571)
 - [仮想空間「メタバース」を使い 越前市の魅力発信｜NHK 2022/02/18](https://www3.nhk.or.jp/lnews/fukui/20220218/3050010440.html)
 - [メタバースで越前市を発信…行政の新たな挑戦　北陸新幹線開業向け観光名所再現や交流イベント | 福井新聞2022/02/11](https://www.fukuishimbun.co.jp/articles/-/1491571)
+- [2023.4.7 今、デジタルツインがヤバイ！～デジタルツインえちぜん製作実行委員会～｜FUKUI SDGs compass – FM福井 76.1MHz JOLU-FM](http://blog.fmfukui.jp/sdgs/?p=1017)
 
 ## 制作
 
