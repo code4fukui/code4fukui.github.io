@@ -31,6 +31,9 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [福井の世界一の技 / 福井の日本一の技 - 実は福井の技オープンデータより](https://code4fukui.github.io/fukui-tech/)
+- [信頼できる一時荷物預かり](https://code4fukui.github.io/TrustedCloak/)
+- [さばレジ](https://regi.sabae.cc/)
 - [福井の地盤オープンデータ活用プロジェクト](https://github.com/GeoFUKUI/idea)
 - [オープンデータライセンス](https://github.com/code4fukui/opendata-license)
 - [国土地理院の標高タイルを用いた地形の3D表示](https://github.com/code4fukui/deckgl-gsi-terrain-layer)
