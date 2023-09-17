@@ -11,6 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2023-09-16/17 [FOSS4G 2023 Japan@FUKUI](https://www.osgeo.jp/events/foss4g-2023/foss4g-2023-japan-at-fukui)
 - 2023-05-13 [鯖江発のゴミ拾い会、xGC復活](https://twitter.com/sabae_xgc/status/1656236705668820992)
 - 2023-03-11 [Tokyo OSS Party!! 2023 Day 2 福井会場](https://fukui-ossparty2.peatix.com/)
 - 2023-02-11 [Tokyo OSS Party!! 2023 Day 1 福井会場](https://fukui-ossparty1.peatix.com/)
