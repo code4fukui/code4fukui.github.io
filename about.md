@@ -76,9 +76,13 @@
 
 団体名称：「Code for FUKUI （コード　フォー　フクイ）」
 
-代表者　：　理事長　福野泰介
+代表者　：　福野泰介 (デジタル庁 オープンデータ伝道師、総務省 地域情報化アドバイザー)
+
+事務局長　：　竹中忍 (総務省 経営・財務マネージメント強化事業アドバイザー、福井県 DX推進アドバイザー)
 
 所在地　：　福井県越前市府中一丁目11番2号　市民プラザたけふ３階
 
 mail　　：　code4fukui (＠gmail.com)
 
+公開鍵(DID)　：　`did:key:z6MkvtSz2Rse941zjVyhMa3bsXY8kY9dddXVcnSWpq9ZA1qi`  
+公開鍵(Ed25519/Base16): `f42ee1180b7d7c41105bd993f8ed7d78cd7127407690aa50d85b88baf06c91f1`  
