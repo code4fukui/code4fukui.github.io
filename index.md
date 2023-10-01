@@ -11,6 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2023-10-27 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2023-09-30/10-01 [めがねフェス2023](https://meganefes.com)出展
 - 2023-09-16/17 [FOSS4G 2023 Japan@FUKUI](https://www.osgeo.jp/events/foss4g-2023/foss4g-2023-japan-at-fukui)
 - 2023-05-13 [鯖江発のゴミ拾い会、xGC復活](https://twitter.com/sabae_xgc/status/1656236705668820992)
@@ -33,6 +34,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [IchigoJamこども＆大人プログラミング](https://ichigojam.net/)
 - [福井の世界一の技 / 福井の日本一の技 - 実は福井の技オープンデータより](https://code4fukui.github.io/fukui-tech/)
 - [信頼できる一時荷物預かり](https://code4fukui.github.io/TrustedCloak/)
 - [さばレジ](https://regi.sabae.cc/)
