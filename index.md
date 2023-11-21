@@ -11,6 +11,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2023-12-16 [ハッカソン「シビックテックで次世代観光を創出せよ」](https://code4fukui.github.io/fukui-kanko-hackathon-20231216/)
+- 2023-11-24 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2023-10-27 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2023-09-30/10-01 [めがねフェス2023](https://meganefes.com)出展
 - 2023-09-16/17 [FOSS4G 2023 Japan@FUKUI](https://www.osgeo.jp/events/foss4g-2023/foss4g-2023-japan-at-fukui)
