@@ -11,6 +11,10 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2024-03-22 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-02-16 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-01-19 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2023-12-29 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-01-28 [Tokyo OSS Party!! 福井会場](https://code4fukui.github.io/tokyo-ossparty-fukui-20240128/)
 - 2023-12-16 [ハッカソン「シビックテックで次世代観光を創出せよ」](https://code4fukui.github.io/fukui-kanko-hackathon-20231216/)
 - 2023-11-24 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
@@ -37,6 +41,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [越前市岡本地区 地域安全マップ「キッズセーフ」](https://fukuno.jig.jp/4110) - [お披露目会レポート](https://fukuno.jig.jp/4241)
 - [IchigoJamこども＆大人プログラミング](https://ichigojam.net/)
 - [福井の世界一の技 / 福井の日本一の技 - 実は福井の技オープンデータより](https://code4fukui.github.io/fukui-tech/)
 - [信頼できる一時荷物預かり](https://code4fukui.github.io/TrustedCloak/)
