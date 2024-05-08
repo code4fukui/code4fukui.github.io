@@ -11,6 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2024-04-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-03-22 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-02-16 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-01-19 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
