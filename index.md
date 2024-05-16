@@ -42,6 +42,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [ノベルゲームづくりからのJavaScript入門](https://github.com/code4fukui/egadv/)
 - [越前市岡本地区 地域安全マップ「キッズセーフ」](https://fukuno.jig.jp/4110) - [お披露目会レポート](https://fukuno.jig.jp/4241)
 - [IchigoJamこども＆大人プログラミング](https://ichigojam.net/)
 - [福井の世界一の技 / 福井の日本一の技 - 実は福井の技オープンデータより](https://code4fukui.github.io/fukui-tech/)
