@@ -11,6 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2024-06-28 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-04-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-03-22 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-02-16 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
@@ -42,6 +43,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [ラクらいん](https://code4fukui.github.io/rakuline/)
 - [ノベルゲームづくりからのJavaScript入門](https://github.com/code4fukui/egadv/)
 - [越前市岡本地区 地域安全マップ「キッズセーフ」](https://fukuno.jig.jp/4110) - [お披露目会レポート](https://fukuno.jig.jp/4241)
 - [IchigoJamこども＆大人プログラミング](https://ichigojam.net/)
