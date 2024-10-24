@@ -4,7 +4,7 @@
 
 Code for FUKUIは、「地域の課題をテクノロジーで解決する」シビックテック活動を行う団体です
 
-- [Code for FUKUIとは](about.html)
+- [Code for FUKUIとは](about.html) (ロゴ [SVG](https://code4fukui.github.io/code4fukui_logo.svg)/[PNG](https://code4fukui.github.io/code4fukui_logo.png)/[PDF](https://code4fukui.github.io/code4fukui_logo.pdf)/[AI](https://code4fukui.github.io/code4fukui_logo.ai))
 - [公式 Twitter](https://twitter.com/code4fukui)
 - [アイデア、質問、何でも相談所！](https://github.com/code4fukui/code4fukui.github.io/issues)
 - [Code for FUKUI Slackへ参加](https://join.slack.com/t/codeforfukui/shared_invite/zt-1g30n0mnr-g8y7eTAegytui4riQJ8d4A)
