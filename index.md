@@ -11,7 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
-- 2024-08-31/28 [福井県知事杯ハッカソン](https://code4fukui.github.io/fukui-chijihai-hackathon-20240901/)
+- 2024-09-28/11-02 [福井県知事杯ハッカソン](https://code4fukui.github.io/fukui-chijihai-hackathon-20240901/)
 - 2024-08-23 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-07-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-06-28 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
