@@ -11,6 +11,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## イベント
 
+- 2024-12-01 [Hack!Hokuriku　北陸観光をハックせよ！ハッカソン - データで拓く未来の観光](https://hokuriku-inbound-kanko.github.io/hackathon/)
 - 2024-09-28/11-02 [福井県知事杯ハッカソン](https://code4fukui.github.io/fukui-chijihai-hackathon-20240901/)
 - 2024-08-23 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
 - 2024-07-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
