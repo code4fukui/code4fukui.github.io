@@ -9,46 +9,14 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [アイデア、質問、何でも相談所！](https://github.com/code4fukui/code4fukui.github.io/issues)
 - [Code for FUKUI Slackへ参加](https://join.slack.com/t/codeforfukui/shared_invite/zt-1g30n0mnr-g8y7eTAegytui4riQJ8d4A)
 
-## イベント
-
-- 2024-12-01 [Hack!Hokuriku　北陸観光をハックせよ！ハッカソン - データで拓く未来の観光](https://hokuriku-inbound-kanko.github.io/hackathon/)
-- 2024-09-28/11-02 [福井県知事杯ハッカソン](https://code4fukui.github.io/fukui-chijihai-hackathon-20240901/)
-- 2024-08-23 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-07-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-06-28 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-04-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-03-22 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-02-16 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-01-19 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2023-12-29 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2024-01-28 [Tokyo OSS Party!! 福井会場](https://code4fukui.github.io/tokyo-ossparty-fukui-20240128/)
-- 2023-12-16 [ハッカソン「シビックテックで次世代観光を創出せよ」](https://code4fukui.github.io/fukui-kanko-hackathon-20231216/)
-- 2023-11-24 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2023-10-27 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
-- 2023-09-30/10-01 [めがねフェス2023](https://meganefes.com)出展
-- 2023-09-16/17 [FOSS4G 2023 Japan@FUKUI](https://www.osgeo.jp/events/foss4g-2023/foss4g-2023-japan-at-fukui)
-- 2023-05-13 [鯖江発のゴミ拾い会、xGC復活](https://twitter.com/sabae_xgc/status/1656236705668820992)
-- 2023-03-11 [Tokyo OSS Party!! 2023 Day 2 福井会場](https://fukui-ossparty2.peatix.com/)
-- 2023-02-11 [Tokyo OSS Party!! 2023 Day 1 福井会場](https://fukui-ossparty1.peatix.com/)
-- 2023-01-28 [福井の地盤オープンデータハッカソン](https://fukui-jiban.peatix.com/)
-- 2022-11-05/06 [NT鯖江2022](https://nt.sabae.cc/)
-- 2022-07-16 [福井県presents みんなでつくる稼ぐ観光ハッカソン | Peatix](https://ideathon-hackathon-fukui.peatix.com/)
-- 2022-07-24 [ZenIT　AIプログラミング教室（初級・中級）](https://www.facebook.com/events/3285546841676128/)
-- 2022-07-29 [サイバーフライデー 2022/7](https://cybervalley.jp/cyberfriday.html)
-- 2022-08-26 [サイバーフライデー 2022/8](https://cybervalley.jp/cyberfriday.html)
-- 2022-12-17 [『守る環境ハッカソンin鯖江』～次世代に残そう美味しい越前ガニ～](https://peatix.com/event/3412028)
-
-## 特別プロジェクト (国高キッズセーフ)
-
-- [アドベンチャー国高](https://github.com/code4fukui/adventure-kunitaka)
-- [やば道チェッカー](https://github.com/code4fukui/yabamichi-checker/)
-- [B4](https://github.com/code4fukui/befor/)
-- [TSUKUROUTE](https://github.com/code4fukui/tsukuroute/)
-
 ## プロジェクト
 
 - [消火栓を除雪しよう、消火栓を探す 5つ星オープンデータ版](https://code4fukui.github.io/findhydrant/) [福井市板](https://code4fukui.github.io/findhydrant_fukuicity/)
 - [教育用構造化プログラミング言語 Wirth(ヴィルト)](https://code4fukui.github.io/Wirth/)
+- [アドベンチャー国高](https://github.com/code4fukui/adventure-kunitaka)
+- [やば道チェッカー](https://github.com/code4fukui/yabamichi-checker/)
+- [B4](https://github.com/code4fukui/befor/)
+- [TSUKUROUTE](https://github.com/code4fukui/tsukuroute/)
 - [ラクらいん](https://code4fukui.github.io/rakuline/)
 - [ノベルゲームづくりからのJavaScript入門](https://github.com/code4fukui/egadv/)
 - [越前市岡本地区 地域安全マップ「キッズセーフ」](https://fukuno.jig.jp/4110) - [お披露目会レポート](https://fukuno.jig.jp/4241)
@@ -132,6 +100,35 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [国名一覧 ISO 3166](https://github.com/code4fukui/iso3166)
 - [鯖江市ハザードマップ](https://github.com/code4fukui/sabae-hazardmap)
 - [越前市ハザードマップ](https://github.com/code4fukui/echizencity-hazardmap)
+
+## イベント
+
+- 2024-12-01 [Hack!Hokuriku　北陸観光をハックせよ！ハッカソン - データで拓く未来の観光](https://hokuriku-inbound-kanko.github.io/hackathon/)
+- 2024-09-28/11-02 [福井県知事杯ハッカソン](https://code4fukui.github.io/fukui-chijihai-hackathon-20240901/)
+- 2024-08-23 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-07-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-06-28 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-04-26 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-03-22 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-02-16 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-01-19 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2023-12-29 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2024-01-28 [Tokyo OSS Party!! 福井会場](https://code4fukui.github.io/tokyo-ossparty-fukui-20240128/)
+- 2023-12-16 [ハッカソン「シビックテックで次世代観光を創出せよ」](https://code4fukui.github.io/fukui-kanko-hackathon-20231216/)
+- 2023-11-24 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2023-10-27 [サイバーフライデー](https://cybervalley.jp/cyberfriday.html)
+- 2023-09-30/10-01 [めがねフェス2023](https://meganefes.com)出展
+- 2023-09-16/17 [FOSS4G 2023 Japan@FUKUI](https://www.osgeo.jp/events/foss4g-2023/foss4g-2023-japan-at-fukui)
+- 2023-05-13 [鯖江発のゴミ拾い会、xGC復活](https://twitter.com/sabae_xgc/status/1656236705668820992)
+- 2023-03-11 [Tokyo OSS Party!! 2023 Day 2 福井会場](https://fukui-ossparty2.peatix.com/)
+- 2023-02-11 [Tokyo OSS Party!! 2023 Day 1 福井会場](https://fukui-ossparty1.peatix.com/)
+- 2023-01-28 [福井の地盤オープンデータハッカソン](https://fukui-jiban.peatix.com/)
+- 2022-11-05/06 [NT鯖江2022](https://nt.sabae.cc/)
+- 2022-07-16 [福井県presents みんなでつくる稼ぐ観光ハッカソン | Peatix](https://ideathon-hackathon-fukui.peatix.com/)
+- 2022-07-24 [ZenIT　AIプログラミング教室（初級・中級）](https://www.facebook.com/events/3285546841676128/)
+- 2022-07-29 [サイバーフライデー 2022/7](https://cybervalley.jp/cyberfriday.html)
+- 2022-08-26 [サイバーフライデー 2022/8](https://cybervalley.jp/cyberfriday.html)
+- 2022-12-17 [『守る環境ハッカソンin鯖江』～次世代に残そう美味しい越前ガニ～](https://peatix.com/event/3412028)
 
 ## コミュニティ
 
