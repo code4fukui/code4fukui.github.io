@@ -47,6 +47,8 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [消火栓を除雪しよう、消火栓を探す 5つ星オープンデータ版](https://code4fukui.github.io/findhydrant/) [福井市板](https://code4fukui.github.io/findhydrant_fukuicity/)
+- [教育用構造化プログラミング言語 Wirth(ヴィルト)](https://code4fukui.github.io/Wirth/)
 - [ラクらいん](https://code4fukui.github.io/rakuline/)
 - [ノベルゲームづくりからのJavaScript入門](https://github.com/code4fukui/egadv/)
 - [越前市岡本地区 地域安全マップ「キッズセーフ」](https://fukuno.jig.jp/4110) - [お披露目会レポート](https://fukuno.jig.jp/4241)
@@ -71,7 +73,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 - [福クル](https://github.com/code4fukui/fukui-kanko-hackathon-20220716)
 - [Code for FUKUI ハッカソンオープンデータ](https://github.com/code4fukui/hackathon/)
 - [福井県の観光アンケートオープンデータ解析](https://code4fukui.github.io/fukui-kanko-stat/)
-- [交通事故0プロジェクト](https://github.com/code4fukui/traffic-accident/) 福井県で年間1,000件!
+- [交通事故0プロジェクト - 福井県で年間1,000件!](https://github.com/code4fukui/traffic-accident/)
 - [みんなでつくる福井の観光アプリ](https://github.com/code4fukui/fukui-kanko/)
 - [VR東尋坊](https://github.com/code4fukui/vr-tojinbo)
 - [福井の海 - トヨタソーシャルフェス](https://github.com/code4fukui/fukui-sea)
