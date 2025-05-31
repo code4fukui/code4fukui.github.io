@@ -13,6 +13,7 @@ Code for FUKUIは、「地域の課題をテクノロジーで解決する」シ
 
 ## プロジェクト
 
+- [craftARt 越前](https://github.com/echizencity/craftARt-kit)
 - [XRモニュメント](https://code4fukui.github.io/xrmonument/) 3Dスキャンしたモニュメントオープンデータ
 - [XRグルメ](https://code4fukui.github.io/xrgourmet/) 3Dスキャンしたグルメオープンデータ
 - [消火栓を除雪しよう、消火栓を探す 5つ星オープンデータ版](https://code4fukui.github.io/findhydrant/) [福井市板](https://code4fukui.github.io/findhydrant_fukuicity/)
