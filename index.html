@@ -1,6 +1,50 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="https://unpkg.com/sakura.css/css/sakura.css" type="text/css">
-<script type="module" src="https://taisukef.github.io/marked_md/mark-down.js"></script>
+<script type="module" src="https://code4fukui.github.io/mark-down/mark-down.js"></script>
+<style>
+  #language-selector {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    background: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  #language-selector select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+</style>
 <title>Code for FUKUI</title>
-</head><body><mark-down src="index.md"></markdown>
+</head><body>
+<div id="language-selector">
+  <select id="lang-select" onchange="changeLanguage(this.value)">
+    <option value="ja">日本語</option>
+    <option value="en">English</option>
+  </select>
+</div>
+<mark-down id="content" src="index.md"></mark-down>
+<script>
+  function initLanguage() {
+    const saved = localStorage.getItem('preferredLanguage') || 'ja';
+    document.getElementById('lang-select').value = saved;
+    document.documentElement.lang = saved;
+    const file = saved === 'en' ? 'index-en.md' : 'index.md';
+    content.src = file;
+  }
+
+  function changeLanguage(lang) {
+    localStorage.setItem('preferredLanguage', lang);
+    document.documentElement.lang = lang;
+    const file = lang === 'en' ? 'index-en.md' : 'index.md';
+    content.src = file;
+  }
+
+  document.addEventListener('DOMContentLoaded', initLanguage);
+</script>
 </body></html>
